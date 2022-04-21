@@ -1,6 +1,6 @@
 {
   "_from": "react-native-sse-channel",
-  "_id": "react-native-sse-channel@0.0.1",
+  "_id": "react-native-sse-channel@0.0.2",
   "_inBundle": false,
   "_location": "/react-native-sse-channel",
   "_phantomChildren": {},
@@ -53,5 +53,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }

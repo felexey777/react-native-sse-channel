@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = package['homepage']
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "file:react-native-eventsource", :tag => "v#{s.version}" }
+  s.source       = { :git => "file:react-native-sse-channel", :tag => "v#{s.version}" }
   s.source_files  = "ios/**/*.{h,m}"
   s.dependency 'React'
 end
