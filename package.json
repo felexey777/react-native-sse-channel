@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-sse-channel",
+  "_id": "react-native-sse-channel@0.0.1",
+  "_inBundle": false,
+  "_location": "/react-native-sse-channel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-sse-channel",
+    "name": "/react-native-sse-channel",
+    "escapedName": "%2freact-native-sse-channel",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": {
+    "name": "Oleksii Kolomatkyi",
+    "email": "felexey.dev@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/felexey777/react-native-sse-channel/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A react-native component for EventSource: Server-Sent Events for iOS and Android",
+  "devDependencies": {
+    "react-native": "^0.42.3"
+  },
+  "homepage": "https://github.com/felexey777/react-native-sse-channel#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "event-source",
+    "sse"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-sse-channel",
+  "peerDependencies": {
+    "react-native": "^0.42.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felexey777/react-native-sse-channel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
